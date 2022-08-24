@@ -4,7 +4,7 @@
 
 The course outlines follows the chapters in Dr. Mazidi book *Exploring NLP with Python*. Dr. Mazidi was kind enought to proved a pdf to her students for the course, but you are welcome to purchase the hard copies in [Amazon](https://www.amazon.com/Exploring-NLP-Python-Building-Understanding/dp/B08P8QKDZK/)
 
-There is a deticated [YouTube] playlist on published by Dr. Mazidi that are helpful too. (https://www.youtube.com/playlist?list=PLfe6IcA_dEWk_OYj4vLz5jBqvLTc7JJOc) 
+There is a deticated [YouTube](https://www.youtube.com/c/JaniceMazidi/playlists) playlist published by Dr. Mazidi that that contain course that she had previously taught. Disclaimer: The video are most likely not up-to-date with current assignemnts but the topic points are worth a listening and note takening.   
 
 ## Course Outline
 
