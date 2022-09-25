@@ -12,22 +12,35 @@ There is a deticated [YouTube](https://www.youtube.com/c/JaniceMazidi/playlists)
   * Read chapter 1 for now 
   * Complete the Prerequisite Survey in eLearning
   * Portfolio Component 1: 
-    * Set up your Class Portfolio following instructions [in the document "Create a GitHub Portfolio..."](https://github.com/kjmazidi/Sample_Portfolio/blob/gh-pages/Create%20a%20GitHub%20Portfolio%20for%20Class%20Work.pdf)
-    * Add a pdf of your "Overview of NLP" [instructions here](https://github.com/kjmazidi/NLP/blob/master/Portfolio%20Instructions/Portfolio%20Component%201.pdf)
-    * Create a link to your document on the index page
-  
-
-
+    -[Assignment 0](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%200) is Portfolio Setup
+    
 * Chapter 2 Python Basics -- the Python you need for this course
   * Read the chapter and take Quiz: Chapter 2
   * Portfolio Component 1: Text Processing with Python [Instructions](https://github.com/kjmazidi/NLP/blob/master/Portfolio%20Instructions/Portfolio%20Component%202.pdf)
-    * create a readme for that program as described in the instructions
+  * [Portfolio Assigment 1](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%201) 
   
 * Chapter 3 NLTK -- the Natural Language Tool Kit
-  * Read the chapter and then take Quiz 3
-  * Assignment: TBD
+  * Read the chapter and then pass Quiz 3
+  * [Portfolio Assignment 2: NLTK](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%202)
+
 
 * Chapter 4 Linguistics 101
-  * Read the chapter and then take Quiz 4
-  * Assignment: TBD
+  * Read the chapter and then pass Quiz 4 
+
+* Chapter 5 Words & Counting
+  * Read the chapter and then pass Quiz 5
+  * [Portfolio Guessing Game](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%203)
+  
+* Chapter 6 POS Tagging
+  * Read the chapter 6 and then pass Quiz 6
+  * [Portfolio Guessing Game](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%203)
+
+* Chapter 7 WordNet
+  * Read the chapter and then pass Quiz 7
+  * [Portfolio WordNet](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%204) 
+  
+  
+* Chapter 8 N-gram Models
+  * Read the chapter 8 and then pass Quiz 8
+  * [Portfolio N-Grams](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%205)
 
