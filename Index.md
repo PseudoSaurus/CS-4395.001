@@ -44,3 +44,6 @@ There is a deticated [YouTube](https://www.youtube.com/c/JaniceMazidi/playlists)
   * Read the chapter 8 and then pass Quiz 8
   * [Portfolio N-Grams](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%205)
 
+* Chapter 12 Web Crawler
+  * Read the chapter 12 and then pass Quiz 9
+  * [Portfolio Web Crawler](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%206)
