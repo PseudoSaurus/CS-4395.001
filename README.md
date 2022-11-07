@@ -18,3 +18,5 @@ All the folders reflect the project and course works done durnig the Fall 2022 s
   -[Assignment 6](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%206) is Portfolio Web_Crawler
   
   -[Assignment 7](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%207) is Portfolio Syntax Parsing
+
+  -[Assignment 7](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%208) is Portfolio Author Attribute
