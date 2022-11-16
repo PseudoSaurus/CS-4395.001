@@ -19,4 +19,6 @@ All the folders reflect the project and course works done durnig the Fall 2022 s
   
   -[Assignment 7](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%207) is Portfolio Syntax Parsing
 
-  -[Assignment 7](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%208) is Portfolio Author Attribute
+  -[Assignment 8](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%208) is Portfolio Author Attribute
+
+  -[Assignment 9](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%209) is Portfolio ACL Paper Summary
