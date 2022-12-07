@@ -23,5 +23,5 @@ All the folders reflect the project and course works done durnig the Fall 2022 s
 
   -[Assignment 9](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%209) = **Portfolio ACL Paper Summary**
 
-  -[Assignment 10](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%210) = **Portfolio Text Classification**
+  -[Assignment 10](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%2010) = **Portfolio Text Classification**
 
