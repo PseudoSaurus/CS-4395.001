@@ -25,3 +25,9 @@ All the folders reflect the project and course works done durnig the Fall 2022 s
 
   -[Assignment 10](https://github.com/PseudoSaurus/CS-4395.001/tree/main/Assignment%2010) = **Portfolio Text Classification**
 
+## Want to connect with me or see my other software works?
+  ### See my itch.io for GameJam projects    
+  [Itch.io Dashboard](https://egos-vanosaur.itch.io/)                                                 
+        
+  ### DM me at Discord
+    
